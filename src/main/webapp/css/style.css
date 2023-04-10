@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.custome-bg{
+	background:#916eff!important;
+}
+
+.admin .card{
+	
+}
+.admin .card:hover{
+	color:white;
+	background:#916eff;
+} 
+
+.list-group-item.active{
+	border:none;
+	background:#916eff!important;
+}
+.discount{
+	font-size: 10px!important;
+	font-style: italic!important;
+	text-decoration:strike-through;
+}
+
+.red{
+	padding:3px;
+	font-size:12px!important;
+	background-color:red;
+}
